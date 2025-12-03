@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T06:50:09.212266+00:00",
+  "generated_at": "2025-12-03T04:25:29.639643+00:00",
   "years": [
     {
       "year": 2005,
@@ -9202,12 +9202,1607 @@
       ]
     },
     {
-      "year": 2018,
-      "papers": []
+      "year": 2013,
+      "papers": [
+        {
+          "path": "2013/072_paper.json",
+          "slug": "072_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Rina Nakazawa",
+            "Takayuki Itoh",
+            "Takafumi Saito"
+          ],
+          "authors_en": [
+            "Rina Nakazawa",
+            "Takayuki Itoh",
+            "Takafumi Saito"
+          ],
+          "id": null,
+          "concepts": [
+            {
+              "id": "10010147.10010257.10010258.10010260.10010268",
+              "path": "Computing methodologies → Machine learning → Learning paradigms → Unsupervised learning → Topic modeling",
+              "confidence": "high"
+            },
+            {
+              "id": "10003120.10003145.10003151",
+              "path": "Human-centered computing → Visualization → Visualization systems and tools",
+              "confidence": "high"
+            },
+            {
+              "id": "10002951.10003317.10003318.10003320",
+              "path": "Information systems → Information retrieval → Document representation → Document topic models",
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "path": "2013/073_paper.json",
+          "slug": "073_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Youhei Akutagawa",
+            "Keiko Yamamoto",
+            "Itaru Kuramoto",
+            "Yoshihiro Tsujino"
+          ],
+          "authors_en": [
+            "Youhei Akutagawa",
+            "Keiko Yamamoto",
+            "Itaru Kuramoto",
+            "Yoshihiro Tsujino"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/074_thermoguide.json",
+          "slug": "074_thermoguide",
+          "title": "ThermoGuide",
+          "title_en": "ThermoGuide",
+          "authors": [
+            "Kiyotaka Saito",
+            "Shin Takahashi",
+            "Jiro Tanaka"
+          ],
+          "authors_en": [
+            "Kiyotaka Saito",
+            "Shin Takahashi",
+            "Jiro Tanaka"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/075_harry-3.json",
+          "slug": "075_harry-3",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/076_paper.json",
+          "slug": "076_paper",
+          "title": "ͳϙΠϯςΟϯάͷͰ͖ΔϓϨθϯςʔγϣϯγεςϜ",
+          "title_en": "Not specified",
+          "authors": [
+            "Wakamatsu Sho",
+            "Umemura Kyoji",
+            "Miwa Taeko",
+            "Okabe Masayuki"
+          ],
+          "authors_en": [
+            "Wakamatsu Sho",
+            "Umemura Kyoji",
+            "Miwa Taeko",
+            "Okabe Masayuki"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/077_paper.json",
+          "slug": "077_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/078_grape.json",
+          "slug": "078_grape",
+          "title": "GRAPE: GRadation Arranged Playlist Environment",
+          "title_en": "GRAPE: GRadation Arranged Playlist Environment",
+          "authors": [
+            "Tomomi Uota",
+            "Takayuki Itoh"
+          ],
+          "authors_en": [
+            "Tomomi Uota",
+            "Takayuki Itoh"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/079_paper.json",
+          "slug": "079_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/080_paper.json",
+          "slug": "080_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/082_paper.json",
+          "slug": "082_paper",
+          "title": "WISS 2013",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/087_unisoner.json",
+          "slug": "087_unisoner",
+          "title": "Unisoner",
+          "title_en": "Unisoner",
+          "authors": [
+            "Keita Tsuzuki",
+            "Tomoyasu Nakano",
+            "Masataka Goto",
+            "Takeshi Yamada",
+            "Shoji Makino"
+          ],
+          "authors_en": [
+            "Keita Tsuzuki",
+            "Tomoyasu Nakano",
+            "Masataka Goto",
+            "Takeshi Yamada",
+            "Shoji Makino"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/088_paper.json",
+          "slug": "088_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/089_paper.json",
+          "slug": "089_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Yoh Akiyama",
+            "Homei Miyashita"
+          ],
+          "authors_en": [
+            "Yoh Akiyama",
+            "Homei Miyashita"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/091_visualmimic-gui.json",
+          "slug": "091_visualmimic-gui",
+          "title": "VisualMimic",
+          "title_en": "VisualMimic",
+          "authors": [
+            "Koumei Fukahori",
+            "Daisuke Sakamoto",
+            "Takeo Igarashi"
+          ],
+          "authors_en": [
+            "Koumei Fukahori",
+            "Daisuke Sakamoto",
+            "Takeo Igarashi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/092_paper.json",
+          "slug": "092_paper",
+          "title": "WISS 2013",
+          "title_en": "WISS 2013",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/093_paper.json",
+          "slug": "093_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/094_paper.json",
+          "slug": "094_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/095_paper.json",
+          "slug": "095_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/098_1.json",
+          "slug": "098_1",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/100_autonomous-interactive-desk-environment.json",
+          "slug": "100_autonomous-interactive-desk-environment",
+          "title": "Autonomous Interactive Desk Environment (AIDE)",
+          "title_en": "Autonomous Interactive Desk Environment (AIDE)",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/102_brightface.json",
+          "slug": "102_brightface",
+          "title": "BrightFace",
+          "title_en": "BrightFace",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/103_paper.json",
+          "slug": "103_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Kosuke Fujimoto",
+            "Makoto Okabe",
+            "Rikio Onai"
+          ],
+          "authors_en": [
+            "Kosuke Fujimoto",
+            "Makoto Okabe",
+            "Rikio Onai"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/105_paper.json",
+          "slug": "105_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Houshu Oh",
+            "Takeo Igarashi",
+            "Kunio Kashino",
+            "Hidehisa Nagano"
+          ],
+          "authors_en": [
+            "Houshu Oh",
+            "Takeo Igarashi",
+            "Kunio Kashino",
+            "Hidehisa Nagano"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/106_2.json",
+          "slug": "106_2",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Shuhei Tsuchida",
+            "Masahiko Tsukamoto",
+            "Tsutomu Terada"
+          ],
+          "authors_en": [
+            "Shuhei Tsuchida",
+            "Masahiko Tsukamoto",
+            "Tsutomu Terada"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/107_paper.json",
+          "slug": "107_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/111_mad-ss.json",
+          "slug": "111_mad-ss",
+          "title": "MAD-SS",
+          "title_en": "MAD-SS",
+          "authors": [
+            "Yasuhiro Uchida",
+            "Norihisa Segawa",
+            "Jun Sawamoto",
+            "Eiji Sugino",
+            "Masato Yazawa",
+            "Masaaki Gokan"
+          ],
+          "authors_en": [
+            "Yasuhiro Uchida",
+            "Norihisa Segawa",
+            "Jun Sawamoto",
+            "Eiji Sugino",
+            "Masato Yazawa",
+            "Masaaki Gokan"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/113_paper.json",
+          "slug": "113_paper",
+          "title": "記述なし",
+          "title_en": "Not specified",
+          "authors": [
+            "Yuma Ito",
+            "Masahiko Tsukamoto",
+            "Tsutomu Terada"
+          ],
+          "authors_en": [
+            "Yuma Ito",
+            "Masahiko Tsukamoto",
+            "Tsutomu Terada"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/114_paper.json",
+          "slug": "114_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/115_overview-scrollbar.json",
+          "slug": "115_overview-scrollbar",
+          "title": "Overview Scrollbar: A Scrollbar Showing an Entire Document as an Overview",
+          "title_en": "Overview Scrollbar: A Scrollbar Showing an Entire Document as an Overview",
+          "authors": [
+            "Ko Mizoguchi",
+            "Daisuke Sakamoto",
+            "Takeo Igarashi"
+          ],
+          "authors_en": [
+            "Ko Mizoguchi",
+            "Daisuke Sakamoto",
+            "Takeo Igarashi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/116_paper.json",
+          "slug": "116_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/117_paper.json",
+          "slug": "117_paper",
+          "title": "enchantMOON: The Hypertext Authoring Tablet",
+          "title_en": "enchantMOON: The Hypertext Authoring Tablet",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/118_paper.json",
+          "slug": "118_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Yuki Koyama",
+            "Daisuke Sakamoto",
+            "Takeo Igarashi"
+          ],
+          "authors_en": [
+            "Yuki Koyama",
+            "Daisuke Sakamoto",
+            "Takeo Igarashi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/120_paper.json",
+          "slug": "120_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Keisuke Sasaki",
+            "Minoru Terada"
+          ],
+          "authors_en": [
+            "Keisuke Sasaki",
+            "Minoru Terada"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/122_paper.json",
+          "slug": "122_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Hiromu Takai",
+            "Buntarou Shizuki",
+            "Jiro Tanaka"
+          ],
+          "authors_en": [
+            "Hiromu Takai",
+            "Buntarou Shizuki",
+            "Jiro Tanaka"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/124_web.json",
+          "slug": "124_web",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/125_paper.json",
+          "slug": "125_paper",
+          "title": "Midas Touch Problem",
+          "title_en": "Midas Touch Problem",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/129_enchantmoon.json",
+          "slug": "129_enchantmoon",
+          "title": "enchantMOON: The Hypertext Authoring Tablet",
+          "title_en": "enchantMOON: The Hypertext Authoring Tablet",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/130_paper.json",
+          "slug": "130_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Yamane Yoshikazu",
+            "Umemura Kyoji",
+            "Okabe Masayuki"
+          ],
+          "authors_en": [
+            "Yamane Yoshikazu",
+            "Umemura Kyoji",
+            "Okabe Masayuki"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/131_paper.json",
+          "slug": "131_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Kiyoto Onozawa",
+            "Hidetsugu Irie",
+            "Tsutomu Yoshinaga"
+          ],
+          "authors_en": [
+            "Kiyoto Onozawa",
+            "Hidetsugu Irie",
+            "Tsutomu Yoshinaga"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/S1_001.json",
+          "slug": "S1_001",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/S1_003.json",
+          "slug": "S1_003",
+          "title": "Accessible Photo Album (APA)",
+          "title_en": "Accessible Photo Album (APA)",
+          "authors": [
+            "Chieko Asakawa",
+            "Susumu Harada",
+            "Daisuke Sato",
+            "Tatsuya Ishihara",
+            "Hironobu Takagi"
+          ],
+          "authors_en": [
+            "Chieko Asakawa",
+            "Susumu Harada",
+            "Daisuke Sato",
+            "Tatsuya Ishihara",
+            "Hironobu Takagi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/S1_004.json",
+          "slug": "S1_004",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/s2-007_capstudio.json",
+          "slug": "s2-007_capstudio",
+          "title": "CapStudio",
+          "title_en": "CapStudio",
+          "authors": [
+            "Koumei Fukahori",
+            "Daisuke Sakamoto",
+            "Jun Kato",
+            "Takeo Igarashi"
+          ],
+          "authors_en": [
+            "Koumei Fukahori",
+            "Daisuke Sakamoto",
+            "Jun Kato",
+            "Takeo Igarashi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2013/s2-008_paper.json",
+          "slug": "s2-008_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "authors": [
+            "Kazuhiko Yamamoto",
+            "Takeo Igarashi"
+          ],
+          "authors_en": [
+            "Kazuhiko Yamamoto",
+            "Takeo Igarashi"
+          ],
+          "id": null,
+          "concepts": []
+        }
+      ]
     },
     {
-      "year": 2019,
-      "papers": []
+      "year": 2014,
+      "papers": [
+        {
+          "path": "2014/001_paper.json",
+          "slug": "001_paper",
+          "title": "靴下型圧力センサを用いた足裏ジェスチャの設計と実装",
+          "title_en": "Not specified",
+          "authors": [
+            "深堀 孔明，坂本 大介，五十嵐 健夫（東大）"
+          ],
+          "authors_en": [
+            "Koumei Fukahori",
+            "Daisuke Sakamoto",
+            "Takeo Igarashi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/002_paper.json",
+          "slug": "002_paper",
+          "title": "臨書初級者のための文字バランス学習支援システム",
+          "title_en": "Not specified",
+          "authors": [
+            "竹川 佳成，野波 淳里（はこだて未来大）"
+          ],
+          "authors_en": [
+            "竹川 佳成，野波 淳里（はこだて未来大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/003_paper.json",
+          "slug": "003_paper",
+          "title": "視覚デザイン探索のためのクラウドソーシングを活用したパラメタ空間解析",
+          "title_en": "Not specified",
+          "authors": [
+            "小山 裕己，坂本 大介，五十嵐 健夫（東大）"
+          ],
+          "authors_en": [
+            "小山 裕己，坂本 大介，五十嵐 健夫（東大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/005_magnail.json",
+          "slug": "005_magnail",
+          "title": "MagNail：爪装着型磁石を用いたモバイル端末インタラクション",
+          "title_en": "MagNail",
+          "authors": [
+            "門村 亜珠沙，椎尾 一郎（お茶の水女子大）"
+          ],
+          "authors_en": [
+            "Azusa Kadomura",
+            "Itiro Siio"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/011_studi-o.json",
+          "slug": "011_studi-o",
+          "title": "StudI/O:立体への投影を利用したトイブロック組み立て支援",
+          "title_en": "StudI/O",
+          "authors": [
+            "椎尾 一郎，橋本 菜摘（お茶の水女子大）"
+          ],
+          "authors_en": [
+            "Itiro Siio",
+            "Natsumi Hashimoto"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/012_qaz-qwerty.json",
+          "slug": "012_qaz-qwerty",
+          "title": "QAZキーボード：タッチパネル端末向け縦型QWERTYキーボード",
+          "title_en": "Not specified",
+          "authors": [
+            "箱田 博之，志築 文太郎，田中 二郎（筑波大）"
+          ],
+          "authors_en": [
+            "Hiroyuki Hakoda",
+            "Buntarou Shizuki",
+            "Jiro Tanaka"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/017_3d.json",
+          "slug": "017_3d",
+          "title": "プロジェクションマッピングを用いた建設用3D積層造形技術",
+          "title_en": "Construction-scale 3D Layered Fabrication Technique Using Projection Mapping",
+          "authors": [
+            "鷹見 洋介，吉田 博則，小渕 祐介，五十嵐 健夫（東大）"
+          ],
+          "authors_en": [
+            "Yosuke Takami",
+            "Hironori Yoshida",
+            "Yusuke Obuchi",
+            "Takeo Igarashi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/018_cross-drag.json",
+          "slug": "018_cross-drag",
+          "title": "Cross-drag：細長いターゲットのドラッグを容易にする操作手法",
+          "title_en": "Cross-drag",
+          "authors": [
+            "山中 祥太，宮下 芳明（明治大）"
+          ],
+          "authors_en": [
+            "Shota Yamanaka",
+            "Homei Miyashita"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/019_hmd.json",
+          "slug": "019_hmd",
+          "title": "シースルー型HMDを用いた社会福祉学的アプローチに基づく“視線恐怖症的コミュ障”支援システムの開発",
+          "title_en": "Development of a support system for 'gaze-phobia-like communication disorder' based on a social welfare approach using a see-through HMD",
+          "authors": [
+            "萩原 早紀，栗原 一貴（津田塾大）"
+          ],
+          "authors_en": [
+            "萩原早紀",
+            "栗原一貴"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/021_paper.json",
+          "slug": "021_paper",
+          "title": "聴覚フィードバックを利用したペダリングトレーニングシステム",
+          "title_en": "Not specified",
+          "authors": [
+            "奥川 遼（神戸大），村尾 和哉（立命館大），寺田 努（神戸大／JST），塚本 昌彦（神戸大）"
+          ],
+          "authors_en": [
+            "Ryo Okugawa",
+            "Masahiko Tsukamoto",
+            "Kazuya Murao",
+            "Tsutomu Terada"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/025_paper.json",
+          "slug": "025_paper",
+          "title": "衣服のシワを用いた入力インタフェース",
+          "title_en": "Not specified",
+          "authors": [
+            "上田 健太郎（神戸大），寺田 努（神戸大／JST），塚本 昌彦（神戸大）"
+          ],
+          "authors_en": [
+            "Kentaro Ueda",
+            "Masahiko Tsukamoto",
+            "Tsutomu Terada"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/027_playlistplayer.json",
+          "slug": "027_playlistplayer",
+          "title": "PlaylistPlayer：再生終了時刻と再生方針が指定できる音楽プレイリスト再生インタフェース",
+          "title_en": "PlaylistPlayer",
+          "authors": [
+            "中野 倫靖，濱崎 雅弘，後藤 真孝（産総研）"
+          ],
+          "authors_en": [
+            "Tomoyasu Nakano",
+            "Masahiro Hamasaki",
+            "Masataka Goto"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/028_paper.json",
+          "slug": "028_paper",
+          "title": "配置と時間による可読性を維持した画像内文字提示手法",
+          "title_en": "Not specified",
+          "authors": [
+            "小川 直記，岡部 誠，尾内 理紀夫（電通大），益子 宗（楽天），平野 廣美（楽天／電通大）"
+          ],
+          "authors_en": [
+            "Naoki Ogawa",
+            "Makoto Okabe",
+            "Rikio Onai",
+            "Soh Masuko",
+            "Hiromi Hirano"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/029_paper.json",
+          "slug": "029_paper",
+          "title": "競創による動機づけ:自分撮りによるトランポリン運動の促進システムの事例",
+          "title_en": "Not specified",
+          "authors": [
+            "福地 健太郎（明治大／JST），助台 良之（フリー），大野 悠人（明治大）"
+          ],
+          "authors_en": [
+            "福地 健太郎（明治大／JST），助台 良之（フリー），大野 悠人（明治大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/031_touchover.json",
+          "slug": "031_touchover",
+          "title": "TouchOver：大画面を備える携帯情報端末を楽に操作するための片手親指操作手法",
+          "title_en": "TouchOver",
+          "authors": [
+            "大西 主紗，志築 文太郎，田中 二郎（筑波大）"
+          ],
+          "authors_en": [
+            "Kazusa Onishi",
+            "Buntarou Shizuki",
+            "Jiro Tanaka"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/032_annotone.json",
+          "slug": "032_annotone",
+          "title": "AnnoTone：高周波音の映像収録時埋め込みによる編集支援",
+          "title_en": "AnnoTone: Embedding high-frequency audio during video recording to support editing",
+          "authors": [
+            "鈴木 良平，坂本 大介，五十嵐 健夫（東大）"
+          ],
+          "authors_en": [
+            "Ryohei Suzuki",
+            "Daisuke Sakamoto",
+            "Takeo Igarashi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/033_paper.json",
+          "slug": "033_paper",
+          "title": "操作の気持ち良さを再現するためのインタラクティブアニメーション分析ツール",
+          "title_en": "Not specified",
+          "authors": [
+            "大島 裕樹，宮下 芳明（明治大）"
+          ],
+          "authors_en": [
+            "Yuki Oshima",
+            "Homei Miyashita"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/037_textalive-kinetic-typography.json",
+          "slug": "037_textalive-kinetic-typography",
+          "title": "TextAlive：インタラクティブでプログラマブルなKinetic Typography制作環境",
+          "title_en": "TextAlive: An Interactive and Programmable Kinetic Typography Authoring Environment",
+          "authors": [
+            "加藤 淳，中野 倫靖，後藤 真孝（産総研）"
+          ],
+          "authors_en": [
+            "Jun Kato",
+            "Tomoyasu Nakano",
+            "Masataka Goto"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/038_queryshare.json",
+          "slug": "038_queryshare",
+          "title": "QueryShare：音楽の探索的検索のためのクエリを検索・推薦可能なインタフェース",
+          "title_en": "QueryShare",
+          "authors": [
+            "濱崎 雅弘，後藤 真孝（産総研）"
+          ],
+          "authors_en": [
+            "Masahiro Hamasaki",
+            "Masataka Goto"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/039_babascript.json",
+          "slug": "039_babascript",
+          "title": "Babascript：人とコンピュータの協調による処理実行環境",
+          "title_en": "Babascript",
+          "authors": [
+            "馬場 匠見，橋本 翔，増井 俊之（慶大）"
+          ],
+          "authors_en": [
+            "馬場 匠見，橋本 翔，増井 俊之（慶大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/045_1a-01.json",
+          "slug": "045_1a-01",
+          "title": "1A-01 タブレット端末における日本語形態素を考慮した文字列範囲選択手法",
+          "title_en": "Not specified",
+          "authors": [
+            "三浦 元喜，最所 賢至，清弘 祥太（九工大）"
+          ],
+          "authors_en": [
+            "三浦 元喜，最所 賢至，清弘 祥太（九工大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/047_3a-13.json",
+          "slug": "047_3a-13",
+          "title": "3A-13 ピアノ演奏による楽譜を検索するシステムの提案",
+          "title_en": "Not specified",
+          "authors": [
+            "高瀬 凌平（豊橋技術科学大学　情報・知能工学専攻），足達 花絵，岡部 正幸，吉田 光男，梅村 恭司（豊橋技科大）"
+          ],
+          "authors_en": [
+            "Ryohei Takase",
+            "Kae Adachi",
+            "Masayuki Okabe",
+            "Mitusō Yoshida",
+            "Kyoji Umemura"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/049_3a-11-livo.json",
+          "slug": "049_3a-11-livo",
+          "title": "3A-11 LiVo:リアルタイム歌声合成演奏インタフェース",
+          "title_en": "LiVo",
+          "authors": [
+            "山本 和彦，五十嵐 健夫（東大）"
+          ],
+          "authors_en": [
+            "山本 和彦，五十嵐 健夫（東大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/050_2a-15.json",
+          "slug": "050_2a-15",
+          "title": "2A-15 パーツ単位のモーフィングにもとづく似顔絵生成",
+          "title_en": "Portrait Illustration Generation Based on Part-wise Morphing",
+          "authors": [
+            "小松 璃子，伊藤 貴之（お茶の水女子大）"
+          ],
+          "authors_en": [
+            "Riko Komatsu",
+            "Takayuki Ito"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/051_1a-12.json",
+          "slug": "051_1a-12",
+          "title": "1A-12 入力文書の印象や感情に基づく楽曲提供の一手法",
+          "title_en": "A method to provide music based on impressions and emotions of input documents",
+          "authors": [
+            "菅野 沙也，伊藤 貴之（お茶の水女子大），高村 大也（東工大）"
+          ],
+          "authors_en": [
+            "菅野沙也",
+            "伊藤貴之",
+            "高村大也"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/052_3a-15-captcha-3dcgcaptcha.json",
+          "slug": "052_3a-15-captcha-3dcgcaptcha",
+          "title": "3A-15 キメラCAPTCHA：3DCGを利用した違和感画像CAPTCHA",
+          "title_en": "Chimera CAPTCHA: Incongruity Image CAPTCHA Using 3DCG",
+          "authors": [
+            "藤田 真浩，池谷 勇樹，可児 潤也，西垣 正勝（静岡大）"
+          ],
+          "authors_en": [
+            "Masahiro Fujita",
+            "Yuki Iketani",
+            "Junya Kani",
+            "Masakatsu Nishigaki"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/053_3a-03.json",
+          "slug": "053_3a-03",
+          "title": "3A-03 メガネ型ウェアラブル端末における他人の目が気にならない入力インタフェースの提案",
+          "title_en": "Not specified",
+          "authors": [
+            "井川 裕貴，澤本 潤，杉野 栄二，瀬川 典久（岩手県立大）"
+          ],
+          "authors_en": [
+            "井川 裕貴，澤本 潤，杉野 栄二，瀬川 典久（岩手県立大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/055_3a-07-sizztass.json",
+          "slug": "055_3a-07-sizztass",
+          "title": "3A-07 SizzTass:静止画に動きを付与する動画作成支援システム",
+          "title_en": "SizzTass",
+          "authors": [
+            "崎山 翔平，岡部 誠，尾内 理紀夫（電通大），平野 廣美（楽天／電通大）"
+          ],
+          "authors_en": [
+            "Shohei Sakiyama",
+            "Makoto Okabe",
+            "Rikio Onai",
+            "Hiromi Hirano"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/058_3a-04.json",
+          "slug": "058_3a-04",
+          "title": "3A-04 大量写真閲覧のためのフォトモザイク生成の一手法",
+          "title_en": "Not specified",
+          "authors": [
+            "坂本 季穂，伊藤 貴之（お茶の水女子大）"
+          ],
+          "authors_en": [
+            "坂本 季穂，伊藤 貴之（お茶の水女子大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/059_3b-06-airflip.json",
+          "slug": "059_3b-06-airflip",
+          "title": "3B-06 AirFlip：モバイル端末におけるホバー検出領域のダブルクロッシングジェスチャ",
+          "title_en": "AirFlip",
+          "authors": [
+            "栗原 拓郎，箱田 博之，島 佳吾，志築 文太郎，田中 二郎（筑波大）"
+          ],
+          "authors_en": [
+            "Takuro Kuribara",
+            "Hiroyuki Hakoda",
+            "Keigo Shima",
+            "Buntarou Shizuki",
+            "Jiro Tanaka"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/060_1a-14.json",
+          "slug": "060_1a-14",
+          "title": "1A-14 拘束感がなく常時モニタリング可能なネックレス型リアルタイム心拍計の設計と実装",
+          "title_en": "WISS 2014",
+          "authors": [
+            "藤原 聖司（大阪府立大），柏本 幸俊，荒川 豊（奈良先端大）"
+          ],
+          "authors_en": [
+            "藤原 聖司（大阪府立大），柏本 幸俊，荒川 豊（奈良先端大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/061_2b-04-stratojump.json",
+          "slug": "061_2b-04-stratojump",
+          "title": "2B-04 StratoJump 成層圏気球飛行全天球映像を用いた超跳躍体験",
+          "title_en": "StratoJump",
+          "authors": [
+            "簗瀬 洋平†‡，笠原 俊一§¶，新田 慧§，伊藤 周†，樋口 啓太§，暦本 純一§∗ （†ユニティ・テクノロジーズ・ジャパン，‡慶應大学KMD研究所，§東大，¶SONY CSL，∗ソニーCSL）"
+          ],
+          "authors_en": [
+            "Makoto Itoh",
+            "Y. Yanase",
+            "M. Furukawa",
+            "Mhd Yamen Saraiji"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/062_2a-10-sheets.json",
+          "slug": "062_2a-10-sheets",
+          "title": "2A-10 Sheets:紙媒体の命令オブジェクトを用いたタンジブルなプログラミング環境",
+          "title_en": "Sheets",
+          "authors": [
+            "夛田 一貴，田中 二郎（筑波大）"
+          ],
+          "authors_en": [
+            "Kazuki Tada",
+            "Jiro Tanaka"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/063_1a-13.json",
+          "slug": "063_1a-13",
+          "title": "1A-13 すぷーにゃ：個人の適温を数値入力なしに設定・通知するスプーン",
+          "title_en": "Not specified",
+          "authors": [
+            "中村 裕美†‡，久手堅 未季§，石沢 舞¶，後藤  大介∗，越智  渉∗，吉田  達穂a，暦本 純一†b （†東大，‡JSPS，§Mulodo Vietnam，¶スタディプラス，∗個人，a沖データ，bソニーCSL）"
+          ],
+          "authors_en": [
+            "Hiromi Nakamura",
+            "Jun Rekimoto",
+            "Miki Kuteken",
+            "Mulodo Vietnam Co., Ltd.",
+            "Mai Ishikawa",
+            "Daisuke Goto",
+            "Wataru Ochi",
+            "Mizuho Yoshida"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/064_3b-02.json",
+          "slug": "064_3b-02",
+          "title": "3B-02 講義中の板書を支援する人物半透明化カメラの実装と評価",
+          "title_en": "Not specified",
+          "authors": [
+            "山根 恵和，岡部 正幸，吉田 光男，梅村 恭司（豊橋技科大）"
+          ],
+          "authors_en": [
+            "Yamane Yoshikazu",
+            "Okabe Masayuki",
+            "Umemura Kyoji",
+            "Yoshida Mitsuo"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/065_3a-14-staring-gear.json",
+          "slug": "065_3a-14-staring-gear",
+          "title": "3A-14 Staring Gear：見回すことによる情報の選択システム",
+          "title_en": "Staring Gear",
+          "authors": [
+            "稲葉 祥，宮本 美貴，吉田 光男，岡部 正幸，梅村 恭司（豊橋技科大）"
+          ],
+          "authors_en": [
+            "Sho Inaba",
+            "Miki Miyamoto",
+            "Mitsuo Yoshida",
+            "Masayuki Okabe",
+            "Kyoji Umemura"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/066_3a-10.json",
+          "slug": "066_3a-10",
+          "title": "3A-10 ゼミナールにおける知識共有を促進するための補助キーワードを利用したプレゼンテーションシステムの提案",
+          "title_en": "A presentation system using auxiliary keywords to promote knowledge sharing in seminars",
+          "authors": [
+            "仙道 航，瀬川 典久，澤本 潤，杉野 栄二（岩手県立大）"
+          ],
+          "authors_en": [
+            "Wataru Sendo",
+            "Norihisa Segawa",
+            "Jun Sawamoto",
+            "Eiji Sugino"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/067_3a-02-ec.json",
+          "slug": "067_3a-02-ec",
+          "title": "3A-02 EC サイトにおける拡張現実を用いた商品の大きさと重さの提示手法の検討",
+          "title_en": "Not specified",
+          "authors": [
+            "山路 大樹（筑波大），岩淵 志学，益子 宗（楽天），田中 二郎（筑波大）"
+          ],
+          "authors_en": [
+            "Daiki Yamaji",
+            "Shigaku Iwabuchi",
+            "Soh Masuko",
+            "Jiro Tanaka"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/068_1b-02-wallshop.json",
+          "slug": "068_1b-02-wallshop",
+          "title": "1B-02 WallSHOP：遠隔操作可能な商品情報配信用デジタルサイネージ",
+          "title_en": "WallSHOP",
+          "authors": [
+            "牟田 将史，益子 宗，新里 圭司，Adiyan Mujibiya（楽天）"
+          ],
+          "authors_en": [
+            "Adiyan Mujibiya"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/069_1a-05-imake.json",
+          "slug": "069_1a-05-imake",
+          "title": "1A-05 iMake ：アイメイクデザイン生成を支援するシステム",
+          "title_en": "iMake",
+          "authors": [
+            "西村 綾乃，椎尾 一郎（お茶の水女子大）"
+          ],
+          "authors_en": [
+            "Ayano Nishimura",
+            "Itiro Siio"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/070_2a-03-generating-intermediate-face-between-a-learner-and-a-t.json",
+          "slug": "070_2a-03-generating-intermediate-face-between-a-learner-and-a-t",
+          "title": "2A-03 Generating Intermediate Face between a Learner and a Teacher in Learning Second Language with Shadowing",
+          "title_en": "Generating Intermediate Face between a Learner and a Teacher in Learning Second Language with Shadowing",
+          "authors": [
+            "中西 陽子（Independent researcher），中西 泰人（慶大）"
+          ],
+          "authors_en": [
+            "Yoko Nakanishi",
+            "Yasuto Nakanishi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/071_2a-04.json",
+          "slug": "071_2a-04",
+          "title": "2A-04 床面に表記された身体動作の記録を再生するロボットの基礎的検討",
+          "title_en": "Not specified",
+          "authors": [
+            "中西 泰人（慶大）"
+          ],
+          "authors_en": [
+            "中西 泰人（慶大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/072_1b-01.json",
+          "slug": "072_1b-01",
+          "title": "1B-01 複数人の嗜好分析による観光地推薦システムの提案",
+          "title_en": "Proposal of a Tourist Spot Recommendation System Based on Analysis of Multiple People's Preferences",
+          "authors": [
+            "奥薗 基（筑波大），牟田 将史（楽天），平野 廣美（楽天／電通大），益子 宗（楽天），星野 准一（筑波大）"
+          ],
+          "authors_en": [
+            "奥薗 基",
+            "牟田 将史",
+            "平野 廣美",
+            "益子 宗",
+            "星野 准一"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/074_2a-13-layout-recognition-for-dynamic-contents-retrieval-in-d.json",
+          "slug": "074_2a-13-layout-recognition-for-dynamic-contents-retrieval-in-d",
+          "title": "2A-13 Layout Recognition for Dynamic Contents Retrieval in Digital Signage",
+          "title_en": "Layout Recognition for Dynamic Contents Retrieval in Digital Signage",
+          "authors": [
+            "Adiyan Mujibiya（楽天）"
+          ],
+          "authors_en": [
+            "Adiyan Mujibiya"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/075_3b-07.json",
+          "slug": "075_3b-07",
+          "title": "3B-07 知覚年齢をリアルタイムに制御可能な歌声声質制御インタフェース",
+          "title_en": "Not specified",
+          "authors": [
+            "小林 和弘，戸田 智基（奈良先端大），中野 倫靖，後藤 真孝（産総研），Graham Neubig，Sakriani Sakti，中村 哲（奈良先端大）"
+          ],
+          "authors_en": [
+            "Kazuhiro Kobayashi",
+            "Tomoki Toda",
+            "Tomoyasu Nakano",
+            "Masataka Goto",
+            "Graham Neubig",
+            "Sakriani Sakti",
+            "Satoshi Nakamura"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/076_1a-03.json",
+          "slug": "076_1a-03",
+          "title": "1A-03 つまむ動作を用いた大型テーブルトップシステムにおける遠隔ポインティング",
+          "title_en": "Not specified",
+          "authors": [
+            "栃原 直哉，佐藤 俊樹，小池 英樹（電通大）"
+          ],
+          "authors_en": [
+            "Naoya Tochihara",
+            "Toshiki Sato",
+            "Hideki Koike"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/077_1a-04.json",
+          "slug": "077_1a-04",
+          "title": "1A-04 対話型遺伝的アルゴリズムを用いたアンケート収集とその可視化",
+          "title_en": "Survey Collection and Visualization Using Interactive Genetic Algorithms",
+          "authors": [
+            "五味 恵理華，斎藤 優理，伊藤 貴之（お茶の水女子大）"
+          ],
+          "authors_en": [
+            "Gomi Erika",
+            "Saito Yuri",
+            "Ito Takayuki"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/078_1a-02-thrift-an-omnidirectional-image-based-virtual-reality.json",
+          "slug": "078_1a-02-thrift-an-omnidirectional-image-based-virtual-reality",
+          "title": "1A-02 ThRift：An omnidirectional image based virtual reality system",
+          "title_en": "ThRift: An omnidirectional image based virtual reality system",
+          "authors": [
+            "Maiga Abdoulaye（慶大／楽天），千葉 直樹（楽天）"
+          ],
+          "authors_en": [
+            "Abdoulaye Maiga",
+            "Naoki Chiba"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/079_3a-12.json",
+          "slug": "079_3a-12",
+          "title": "3A-12 コンテクスト情報を用いたテキスト入力システムの検証",
+          "title_en": "Not specified",
+          "authors": [
+            "鈴木 孝宏，美馬 義亮，角 康之（はこだて未来大）"
+          ],
+          "authors_en": [
+            "鈴木 孝宏，美馬 義亮，角 康之（はこだて未来大）"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/080_2a-12.json",
+          "slug": "080_2a-12",
+          "title": "2A-12 複数周波数帯を同時利用できる低消費電力なセンサノードの開発",
+          "title_en": "Development of low-power sensor nodes capable of simultaneous use of multiple frequency bands",
+          "authors": [
+            "内田 泰広，瀬川 典久（岩手県立大），矢澤 正人（数理設計研）"
+          ],
+          "authors_en": [
+            "Yasuhiro Uchida",
+            "Norihisa Segawa",
+            "Masato Yazawa"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/081_2a-11.json",
+          "slug": "081_2a-11",
+          "title": "2A-11 移動データを基に変形した地図を利用した生活時空間の認知",
+          "title_en": "Not specified",
+          "authors": [
+            "横井 逸人，角 康之（はこだて未来大），松村 耕平（立命館大）"
+          ],
+          "authors_en": [
+            "Hayato Yokoi",
+            "Yasuyuki Sumi",
+            "Kohei Matsumura"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/082_1a-10.json",
+          "slug": "082_1a-10",
+          "title": "1A-10 凹凸情報を持つ写真をキャンバスとした立体スケッチシステム",
+          "title_en": "Not specified",
+          "authors": [
+            "友広 歩李，角 康之（はこだて未来大），松村 耕平（立命館大）"
+          ],
+          "authors_en": [
+            "Ayuri Tomohiro",
+            "Yasuyuki Sumi",
+            "Kohei Matsumura"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/083_2c-02-lovable-couch.json",
+          "slug": "083_2c-02-lovable-couch",
+          "title": "2C-02 Lovable Couch ：心拍変動の可視化による異性への不信感の払拭の検討",
+          "title_en": "Lovable Couch : Visualization of heart rate variability to dispel distrust toward the opposite sex",
+          "authors": [
+            "岩本 拓也，益子 宗（楽天）"
+          ],
+          "authors_en": [
+            "Takuya Iwamoto",
+            "So Masuko"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/084_3a-01-carduino.json",
+          "slug": "084_3a-01-carduino",
+          "title": "3A-01 CARduino：自動車での利用に適したデバイスツールキット",
+          "title_en": "CARduino: A device toolkit suitable for in-car use",
+          "authors": [
+            "山本 貴文，沖 真帆，塚田 浩二（はこだて未来大）"
+          ],
+          "authors_en": [
+            "Takafumi Yamamoto",
+            "Maho Oki",
+            "Koji Tsukada"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/085_1b-07.json",
+          "slug": "085_1b-07",
+          "title": "1B-07 スーパー範囲選択：マウスドラッグによる複数選択の拡張",
+          "title_en": "Not specified",
+          "authors": [
+            "中屋 裕登，宮下 芳明（明治大）"
+          ],
+          "authors_en": [
+            "Hiroto Nakaya",
+            "Homei Miyashita"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/086_1b-06.json",
+          "slug": "086_1b-06",
+          "title": "1B-06 タッチ入力の柔軟な再配置を可能としたインタフェースの作成支援",
+          "title_en": "Not specified",
+          "authors": [
+            "加藤 邦拓，秋山 耀，宮下 芳明（明治大）"
+          ],
+          "authors_en": [
+            "Kunihiro Kato",
+            "Yoh Akiyama",
+            "Homei Miyashita"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/087_2a-05.json",
+          "slug": "087_2a-05",
+          "title": "2A-05 不動カーソル領域：ユーザが安心して画面を触ることができる閲覧インタフェース",
+          "title_en": "Not specified",
+          "authors": [
+            "宮代 理弘，宮下 芳明（明治大）"
+          ],
+          "authors_en": [
+            "Masahiro Miyashiro",
+            "Homei Miyashita"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/088_2a-02-processing.json",
+          "slug": "088_2a-02-processing",
+          "title": "2A-02 Processing アプリケーション開発のための視覚的ドメイン特化言語",
+          "title_en": "Not specified",
+          "authors": [
+            "栗原 あずさ，佐々木 晃（法政大），脇田 建（東工大／JST CREST），細部 博史（法政大）"
+          ],
+          "authors_en": [
+            "Azusa Kurihara",
+            "Akira Sasaki",
+            "Hiroshi Hosobe",
+            "Ken Wakita"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/089_3a-06-cooksum.json",
+          "slug": "089_3a-06-cooksum",
+          "title": "3A-06 CookSum：動画レシピ作成支援システム",
+          "title_en": "CookSum",
+          "authors": [
+            "橋本 遼太朗，塚田 浩二（はこだて未来大），栗原 一貴（津田塾大）"
+          ],
+          "authors_en": [
+            "Ryotaro Hashimoto",
+            "Koji Tsukada",
+            "Kazutaka Kurihara"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2014/090_1a-15.json",
+          "slug": "090_1a-15",
+          "title": "1A-15 極小タッチデバイスにおける文字の分割入力手法",
+          "title_en": "Not specified",
+          "authors": [
+            "金井 達巳，宮下 芳明（明治大）"
+          ],
+          "authors_en": [
+            "Tatsumi Kanai",
+            "Homei Miyashita"
+          ],
+          "id": null,
+          "concepts": []
+        }
+      ]
     },
     {
       "year": 2020,
@@ -11680,6 +13275,585 @@
           ]
         }
       ]
+    },
+    {
+      "year": 2025,
+      "papers": [
+        {
+          "path": "2025/11.json",
+          "slug": "11",
+          "title": "Purikura-Fabɿ3Dϓϩηεཧղͱར༻ҙཉΛଅਐ",
+          "title_en": "Purikura-Fabɿ3Dϓϩηεཧղͱར༻ҙཉΛଅਐ",
+          "authors": [
+            "Purikura-Fab"
+          ],
+          "authors_en": [
+            "Purikura-Fab"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/12.json",
+          "slug": "12",
+          "title": "ã¦ã¼ã¶ã®è½åçãªæ¢ç´¢ãå¯è½ã«ããDeep Researchã·ã¹ãã",
+          "title_en": "Deep Research",
+          "authors": [
+            "SB Intuitions"
+          ],
+          "authors_en": [
+            "SB Intuitions"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/14.json",
+          "slug": "14",
+          "title": "PrefTolerance",
+          "title_en": "PrefTolerance",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/19.json",
+          "slug": "19",
+          "title": "PracToneVis: 管楽器奏者のための基礎練習支援システム",
+          "title_en": "PracToneVis: 管楽器奏者のための基礎練習支援システム",
+          "authors": [
+            "池谷 優希",
+            "伊藤 貴之"
+          ],
+          "authors_en": [
+            "池谷 優希",
+            "伊藤 貴之"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_A05.json",
+          "slug": "1_A05",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "A Rule-Design System for Sports Enjoyable by Diverse Players Using LLMs",
+          "authors": [
+            "井上 大雅",
+            "西田 健志"
+          ],
+          "authors_en": [
+            "Taiga Inoue",
+            "Kenji Nishida"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_A06.json",
+          "slug": "1_A06",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [
+            "Chen-Chieh Liao",
+            "Yichen Peng",
+            "খ஑ ӳथ"
+          ],
+          "authors_en": [
+            "Chen-Chieh Liao",
+            "Yichen Peng",
+            "খ஑ ӳथ"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_B03.json",
+          "slug": "1_B03",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_B07.json",
+          "slug": "1_B07",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_B10.json",
+          "slug": "1_B10",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_B15.json",
+          "slug": "1_B15",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_C07.json",
+          "slug": "1_C07",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_C08.json",
+          "slug": "1_C08",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_C12.json",
+          "slug": "1_C12",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_C22.json",
+          "slug": "1_C22",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/1_C26.json",
+          "slug": "1_C26",
+          "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+          "title_en": "NotifAcTalk: ੜ੒ AIͷͨΊͷϦϚΠϯυख๏ͷఏҊ",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/20.json",
+          "slug": "20",
+          "title": "å¾æ¹ä¼¸èº«å®è¿ãã®æ®µéçå­¦ç¿ããµãã¼ãããç·´ç¿æ¯æ´ã·ã¹ãã",
+          "title_en": "A Practice Support System for Stepwise Learning of Back Pike Somersaults",
+          "authors": [
+            "髙橋 洸汰",
+            "岡部 誠"
+          ],
+          "authors_en": [
+            "Kota Takahashi",
+            "Makoto Okabe"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/29.json",
+          "slug": "29",
+          "title": "å±ç¤ºç©ºéã«ãããææã¡åããããã¦ã³ããã£ã¹ãã¬ã¤ã®VRãã¤ã³ãã£ã³ã°ææ³ã®æ¤è¨",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_A03.json",
+          "slug": "2_A03",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "Zip-up Print:ͷ3D ϓϦϯτख๏",
+          "authors": [
+            "Jiaji Li",
+            "Akib Zaman",
+            "Noah Barnes",
+            "ਿӜ ༟ଠ∗",
+            "Stefanie Mueller"
+          ],
+          "authors_en": [
+            "Jiaji Li",
+            "Akib Zaman",
+            "Noah Barnes",
+            "ਿӜ ༟ଠ∗",
+            "Stefanie Mueller"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_B07.json",
+          "slug": "2_B07",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "An Intuitive Zoom-in Interface in VR Using a Squinting Gesture",
+          "authors": [
+            "三縄 涼介",
+            "三武 裕玄"
+          ],
+          "authors_en": [
+            "三縄 涼介",
+            "三武 裕玄"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_B09.json",
+          "slug": "2_B09",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "Efficient LOD Generation and Web Visualization of Large-Scale Point Clouds Using Octrees",
+          "authors": [
+            "ԽγεςϜͷఏҊ",
+            "ޗۅ∗ɹɹҏ౻ ਖ਼඙"
+          ],
+          "authors_en": [
+            "ԽγεςϜͷఏҊ",
+            "ޗۅ∗ɹɹҏ౻ ਖ਼඙"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_C08.json",
+          "slug": "2_C08",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "ASSADEP: Autonomous Sensory Sharing Augmented Device for Ear Pick",
+          "authors": [
+            "ਗ਼ਫ ྯྑ",
+            "౬జ ཌྷ"
+          ],
+          "authors_en": [
+            "ਗ਼ਫ ྯྑ",
+            "౬జ ཌྷ"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_C09.json",
+          "slug": "2_C09",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_C10.json",
+          "slug": "2_C10",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "Electric Paper Signage: EPS",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_C11.json",
+          "slug": "2_C11",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "Preliminary Study of Information Presentation Using a Movable Lens Array",
+          "authors": [
+            "鈴木 麻央",
+            "沖 真帆",
+            "塚田 浩二"
+          ],
+          "authors_en": [
+            "Mao Suzuki",
+            "Maho Oki",
+            "Koji Tsukada"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_C15.json",
+          "slug": "2_C15",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "GapFill:ԉ͢Δπʔϧ",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_C16.json",
+          "slug": "2_C16",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "Not specified",
+          "authors": [
+            "大里 一颯",
+            "栗原 渉",
+            "兼松 祥央",
+            "松吉 俊",
+            "安原 広和",
+            "三上 浩司"
+          ],
+          "authors_en": [
+            "大里 一颯",
+            "栗原 渉",
+            "兼松 祥央",
+            "松吉 俊",
+            "安原 広和",
+            "三上 浩司"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_C20.json",
+          "slug": "2_C20",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "Phantom Sensation",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/2_C25.json",
+          "slug": "2_C25",
+          "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+          "title_en": "Pareto Solutions in Reduced Space Parallel Coordinate Plots",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/31.json",
+          "slug": "31",
+          "title": "WanderGuide: è¦è¦éå®³èã®æ¢ç´¢ãæ¯æ´ããå°å³ãªãæ¡åã­ããã",
+          "title_en": "WanderGuide",
+          "authors": [
+            "Allan Wang"
+          ],
+          "authors_en": [
+            "Allan Wang"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_A05.json",
+          "slug": "3_A05",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "VR空間における作業ユーザのためのグループ内位置自動調整システム",
+          "authors": [
+            "毛利 貴",
+            "三武 裕玄"
+          ],
+          "authors_en": [
+            "毛利 貴",
+            "三武 裕玄"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_B09.json",
+          "slug": "3_B09",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "A method for increasing character likeability via pseudo-mirroring that preserves character personality",
+          "authors": [
+            "前田 隼翔",
+            "三武 裕玄"
+          ],
+          "authors_en": [
+            "前田 隼翔",
+            "三武 裕玄"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C03.json",
+          "slug": "3_C03",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "Proposal for an Inclusive Redesign of a Competitive Karuta Game",
+          "authors": [
+            "丸山 礼華",
+            "簗瀬 洋平",
+            "北川 リサ",
+            "栗原 一貴"
+          ],
+          "authors_en": [
+            "Reika Maruyama",
+            "Yohei Yanase",
+            "Lisa Kitagawa",
+            "Kazuki Kurihara"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C06.json",
+          "slug": "3_C06",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "FlavorLUT",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C07.json",
+          "slug": "3_C07",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "A Scale-Aware Method for Generating 3D-Printable Tactile Maps",
+          "authors": [
+            "Qi Feng",
+            "Seita Kayukawa",
+            "Xiyue Wang",
+            "Hironobu Takagi",
+            "Chieko Asakawa"
+          ],
+          "authors_en": [
+            "Qi Feng",
+            "Seita Kayukawa",
+            "Xiyue Wang",
+            "Hironobu Takagi",
+            "Chieko Asakawa"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C14.json",
+          "slug": "3_C14",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "AR-pin-based face-to-face conversation support system that clarifies pointing targets and intentions",
+          "authors": [
+            "石井 泰斗",
+            "大澤 怜二",
+            "川口 一画"
+          ],
+          "authors_en": [
+            "Taito Ishii",
+            "Reiji Osawa",
+            "Ikkaku Kawaguchi"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C15.json",
+          "slug": "3_C15",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "NFCԉγεςϜͷఏҊ",
+          "authors": [
+            "ཟՌ∗ɹɹత৔ ΍͢͠∗ل∗†"
+          ],
+          "authors_en": [
+            "ཟՌ∗ɹɹత৔ ΍͢͠∗ل∗†"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C16.json",
+          "slug": "3_C16",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C18.json",
+          "slug": "3_C18",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "Neural Manifolds — Decoded Neurofeedback",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C19.json",
+          "slug": "3_C19",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "Not specified",
+          "authors": [
+            "૾σΟεϓϨΠͷఏҊ",
+            "ᖒ୩ थ∗ೋ∗",
+            "ཁ.૾σΟεϓϨΠ(ӳɿPOV Display)͸ɼLED૾Λ༻͍"
+          ],
+          "authors_en": [
+            "૾σΟεϓϨΠͷఏҊ",
+            "ᖒ୩ थ∗ೋ∗",
+            "ཁ.૾σΟεϓϨΠ(ӳɿPOV Display)͸ɼLED૾Λ༻͍"
+          ],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/3_C20.json",
+          "slug": "3_C20",
+          "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+          "title_en": "Actuated Display Voxel",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/C03.json",
+          "slug": "C03",
+          "title": "AIã«ããçºè¦ã«ã¼ãçæãéããSFãã­ãã¿ã¤ãã³ã°æ³åæ¯æ´ã·ã¹ãã",
+          "title_en": "Not specified",
+          "authors": [],
+          "authors_en": [],
+          "id": null,
+          "concepts": []
+        },
+        {
+          "path": "2025/C04.json",
+          "slug": "C04",
+          "title": "Suzume-chan: Your Personal Navigator as an Embodied Information Hub",
+          "title_en": "Suzume-chan: Your Personal Navigator as an Embodied Information Hub",
+          "authors": [
+            "Maya Grace Torii",
+            "Takahito Murakami",
+            "Shuka Koseki",
+            "Yoichi Ochiai"
+          ],
+          "authors_en": [
+            "Maya Grace Torii",
+            "Takahito Murakami",
+            "Shuka Koseki",
+            "Yoichi Ochiai"
+          ],
+          "id": null,
+          "concepts": []
+        }
+      ]
     }
   ],
   "concepts": [
@@ -14118,6 +16292,21 @@
         }
       ],
       "count": 2
+    },
+    {
+      "id": "10010147.10010257.10010258.10010260.10010268",
+      "path": "Computing methodologies → Machine learning → Learning paradigms → Unsupervised learning → Topic modeling",
+      "papers": [
+        {
+          "path": "2013/072_paper.json",
+          "slug": "072_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "year": 2013,
+          "confidence": "high"
+        }
+      ],
+      "count": 1
     },
     {
       "id": "10010147.10010257.10010282.10010292",
@@ -18191,6 +20380,14 @@
           "confidence": "medium"
         },
         {
+          "path": "2013/072_paper.json",
+          "slug": "072_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "year": 2013,
+          "confidence": "high"
+        },
+        {
           "path": "2020/n-25_n-25-instrumeteor.json",
           "slug": "n-25_n-25-instrumeteor",
           "title": "Instrumeteor",
@@ -18215,7 +20412,7 @@
           "confidence": "high"
         }
       ],
-      "count": 27
+      "count": 28
     },
     {
       "id": "10003120.10003145.10003146",
@@ -18353,6 +20550,21 @@
           "title_en": "Parallel Coordinate Plots",
           "year": 2024,
           "confidence": "high"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "id": "10002951.10003317.10003318.10003320",
+      "path": "Information systems → Information retrieval → Document representation → Document topic models",
+      "papers": [
+        {
+          "path": "2013/072_paper.json",
+          "slug": "072_paper",
+          "title": null,
+          "title_en": "Not specified",
+          "year": 2013,
+          "confidence": "medium"
         }
       ],
       "count": 1
@@ -19582,11 +21794,11 @@
   ],
   "concept_tree": {
     "name": "ACM CCS",
-    "count": 798,
+    "count": 801,
     "children": [
       {
         "name": "Human-centered computing",
-        "count": 370,
+        "count": 371,
         "children": [
           {
             "name": "Interaction design",
@@ -19625,6 +21837,82 @@
             ],
             "id": "10003120.10003123",
             "path": "Human-centered computing → Interaction design"
+          },
+          {
+            "name": "Visualization",
+            "count": 63,
+            "children": [
+              {
+                "name": "Visualization systems and tools",
+                "count": 28,
+                "id": "10003120.10003145.10003151",
+                "path": "Human-centered computing → Visualization → Visualization systems and tools"
+              },
+              {
+                "name": "Visualization techniques",
+                "count": 13,
+                "children": [
+                  {
+                    "name": "Graph drawings",
+                    "count": 5,
+                    "id": "10003120.10003145.10003146.10010892",
+                    "path": "Human-centered computing → Visualization → Visualization techniques → Graph drawings"
+                  },
+                  {
+                    "name": "Treemaps",
+                    "count": 1,
+                    "id": "10003120.10003145.10003146.10010889",
+                    "path": "Human-centered computing → Visualization → Visualization techniques → Treemaps"
+                  }
+                ],
+                "id": "10003120.10003145.10003146",
+                "path": "Human-centered computing → Visualization → Visualization techniques"
+              },
+              {
+                "name": "Visualization design and evaluation methods",
+                "count": 8,
+                "id": "10003120.10003145.10011770",
+                "path": "Human-centered computing → Visualization → Visualization design and evaluation methods"
+              },
+              {
+                "name": "Visualization application domains",
+                "count": 6,
+                "children": [
+                  {
+                    "name": "Geographic visualization",
+                    "count": 3,
+                    "id": "10003120.10003145.10003147.10010887",
+                    "path": "Human-centered computing → Visualization → Visualization application domains → Geographic visualization"
+                  },
+                  {
+                    "name": "Information visualization",
+                    "count": 2,
+                    "id": "10003120.10003145.10003147.10010923",
+                    "path": "Human-centered computing → Visualization → Visualization application domains → Information visualization"
+                  },
+                  {
+                    "name": "Visual analytics",
+                    "count": 1,
+                    "id": "10003120.10003145.10003147.10010365",
+                    "path": "Human-centered computing → Visualization → Visualization application domains → Visual analytics"
+                  }
+                ]
+              },
+              {
+                "name": "Empirical studies in visualization",
+                "count": 5,
+                "id": "10003120.10003145.10011769",
+                "path": "Human-centered computing → Visualization → Empirical studies in visualization"
+              },
+              {
+                "name": "Visualization theory, concepts and paradigms",
+                "count": 1,
+                "id": "10003120.10003145.10011768",
+                "path": "Human-centered computing → Visualization → Visualization theory, concepts and paradigms"
+              }
+            ],
+            "id": "10003120.10003145",
+            "path": "Human-centered computing → Visualization"
           },
           {
             "name": "Human computer interaction (HCI)",
@@ -19757,82 +22045,6 @@
                 "path": "Human-centered computing → Human computer interaction (HCI) → Interactive systems and tools"
               }
             ]
-          },
-          {
-            "name": "Visualization",
-            "count": 62,
-            "children": [
-              {
-                "name": "Visualization systems and tools",
-                "count": 27,
-                "id": "10003120.10003145.10003151",
-                "path": "Human-centered computing → Visualization → Visualization systems and tools"
-              },
-              {
-                "name": "Visualization techniques",
-                "count": 13,
-                "children": [
-                  {
-                    "name": "Graph drawings",
-                    "count": 5,
-                    "id": "10003120.10003145.10003146.10010892",
-                    "path": "Human-centered computing → Visualization → Visualization techniques → Graph drawings"
-                  },
-                  {
-                    "name": "Treemaps",
-                    "count": 1,
-                    "id": "10003120.10003145.10003146.10010889",
-                    "path": "Human-centered computing → Visualization → Visualization techniques → Treemaps"
-                  }
-                ],
-                "id": "10003120.10003145.10003146",
-                "path": "Human-centered computing → Visualization → Visualization techniques"
-              },
-              {
-                "name": "Visualization design and evaluation methods",
-                "count": 8,
-                "id": "10003120.10003145.10011770",
-                "path": "Human-centered computing → Visualization → Visualization design and evaluation methods"
-              },
-              {
-                "name": "Visualization application domains",
-                "count": 6,
-                "children": [
-                  {
-                    "name": "Geographic visualization",
-                    "count": 3,
-                    "id": "10003120.10003145.10003147.10010887",
-                    "path": "Human-centered computing → Visualization → Visualization application domains → Geographic visualization"
-                  },
-                  {
-                    "name": "Information visualization",
-                    "count": 2,
-                    "id": "10003120.10003145.10003147.10010923",
-                    "path": "Human-centered computing → Visualization → Visualization application domains → Information visualization"
-                  },
-                  {
-                    "name": "Visual analytics",
-                    "count": 1,
-                    "id": "10003120.10003145.10003147.10010365",
-                    "path": "Human-centered computing → Visualization → Visualization application domains → Visual analytics"
-                  }
-                ]
-              },
-              {
-                "name": "Empirical studies in visualization",
-                "count": 5,
-                "id": "10003120.10003145.10011769",
-                "path": "Human-centered computing → Visualization → Empirical studies in visualization"
-              },
-              {
-                "name": "Visualization theory, concepts and paradigms",
-                "count": 1,
-                "id": "10003120.10003145.10011768",
-                "path": "Human-centered computing → Visualization → Visualization theory, concepts and paradigms"
-              }
-            ],
-            "id": "10003120.10003145",
-            "path": "Human-centered computing → Visualization"
           },
           {
             "name": "Collaborative and social computing",
@@ -20020,7 +22232,7 @@
       },
       {
         "name": "Computing methodologies",
-        "count": 157,
+        "count": 158,
         "children": [
           {
             "name": "Computer graphics",
@@ -20351,35 +22563,27 @@
             ]
           },
           {
-            "name": "Modeling and simulation",
+            "name": "Machine learning",
             "count": 3,
             "children": [
               {
-                "name": "Simulation support systems",
-                "count": 3,
+                "name": "Learning paradigms",
+                "count": 1,
                 "children": [
                   {
-                    "name": "Simulation environments",
-                    "count": 2,
-                    "id": "10010147.10010341.10010366.10010367",
-                    "path": "Computing methodologies → Modeling and simulation → Simulation support systems → Simulation environments"
+                    "name": "Unsupervised learning",
+                    "count": 1,
+                    "children": [
+                      {
+                        "name": "Topic modeling",
+                        "count": 1,
+                        "id": "10010147.10010257.10010258.10010260.10010268",
+                        "path": "Computing methodologies → Machine learning → Learning paradigms → Unsupervised learning → Topic modeling"
+                      }
+                    ]
                   }
-                ],
-                "id": "10010147.10010341.10010366",
-                "path": "Computing methodologies → Modeling and simulation → Simulation support systems"
-              }
-            ]
-          },
-          {
-            "name": "Distributed computing methodologies",
-            "count": 2,
-            "id": "10010147.10010919",
-            "path": "Computing methodologies → Distributed computing methodologies"
-          },
-          {
-            "name": "Machine learning",
-            "count": 2,
-            "children": [
+                ]
+              },
               {
                 "name": "Learning settings",
                 "count": 1,
@@ -20405,6 +22609,32 @@
                 ]
               }
             ]
+          },
+          {
+            "name": "Modeling and simulation",
+            "count": 3,
+            "children": [
+              {
+                "name": "Simulation support systems",
+                "count": 3,
+                "children": [
+                  {
+                    "name": "Simulation environments",
+                    "count": 2,
+                    "id": "10010147.10010341.10010366.10010367",
+                    "path": "Computing methodologies → Modeling and simulation → Simulation support systems → Simulation environments"
+                  }
+                ],
+                "id": "10010147.10010341.10010366",
+                "path": "Computing methodologies → Modeling and simulation → Simulation support systems"
+              }
+            ]
+          },
+          {
+            "name": "Distributed computing methodologies",
+            "count": 2,
+            "id": "10010147.10010919",
+            "path": "Computing methodologies → Distributed computing methodologies"
           },
           {
             "name": "Symbolic and algebraic manipulation",
@@ -20752,11 +22982,11 @@
       },
       {
         "name": "Information systems",
-        "count": 65,
+        "count": 66,
         "children": [
           {
             "name": "Information retrieval",
-            "count": 34,
+            "count": 35,
             "children": [
               {
                 "name": "Users and interactive retrieval",
@@ -20885,6 +23115,18 @@
                     "count": 2,
                     "id": "10002951.10003317.10003347.10003350",
                     "path": "Information systems → Information retrieval → Retrieval tasks and goals → Recommender systems"
+                  }
+                ]
+              },
+              {
+                "name": "Document representation",
+                "count": 1,
+                "children": [
+                  {
+                    "name": "Document topic models",
+                    "count": 1,
+                    "id": "10002951.10003317.10003318.10003320",
+                    "path": "Information systems → Information retrieval → Document representation → Document topic models"
                   }
                 ]
               }
