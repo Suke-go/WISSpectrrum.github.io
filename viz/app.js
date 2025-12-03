@@ -567,7 +567,8 @@ function renderNetworkView(container) {
 
     // Check if we have embedding data
     const hasEmbeddings = state.filteredPapers.some(p => p.embedding_2d);
-    const useEmbeddings = hasEmbeddings && state.filteredPapers.length <= 500;
+    // Always prefer embeddings when available; avoid force layout animation
+    const useEmbeddings = hasEmbeddings;
 
     // Calculate embedding bounds for better scaling
     let embeddingBounds = { minX: 0, maxX: 0, minY: 0, maxY: 0 };
@@ -616,8 +617,11 @@ function renderNetworkView(container) {
                 node.y = height / 2;
             }
         } else {
-            node.x = width / 2;
-            node.y = height / 2;
+            // Static circle layout (no force animation) when embeddings are absent
+            const angle = (i / state.filteredPapers.length) * Math.PI * 2;
+            const radius = Math.min(width, height) * 0.35;
+            node.x = width / 2 + Math.cos(angle) * radius;
+            node.y = height / 2 + Math.sin(angle) * radius;
         }
 
         return node;
@@ -670,17 +674,6 @@ function renderNetworkView(container) {
             return conceptColors.get(topLevel) || '#6366f1';
         }
         return '#6366f1';
-    }
-
-    // Create force simulation (only if not using embeddings)
-    let simulation = null;
-    if (!useEmbeddings) {
-        // Dynamic force layout
-        simulation = d3.forceSimulation(nodes)
-            .force('link', d3.forceLink(links).id(d => d.id).distance(100).strength(d => d.strength * 0.1))
-            .force('charge', d3.forceManyBody().strength(-200))
-            .force('center', d3.forceCenter(width / 2, height / 2))
-            .force('collision', d3.forceCollide().radius(20));
     }
 
     // Draw links
