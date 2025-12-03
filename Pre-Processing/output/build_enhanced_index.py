@@ -90,7 +90,12 @@ def load_paper_payload(paper_path: Path) -> Optional[Tuple[Dict[str, np.ndarray]
 
 
 def compute_reduced_dimensions(vectors: Sequence[np.ndarray]) -> Tuple[Optional[np.ndarray], Optional[np.ndarray]]:
-    """Project normalised embeddings to 2D via PCA (50 -> 2) and t-SNE."""
+    """
+    Project normalised embeddings to 2D via PCA (50 -> 2) and UMAP (fallback to t-SNE).
+
+    Returns:
+        (embedding_2d_primary, embedding_2d_pca) where primary is UMAP if available, else t-SNE.
+    """
     if len(vectors) < 2:
         return None, None
 
@@ -103,21 +108,40 @@ def compute_reduced_dimensions(vectors: Sequence[np.ndarray]) -> Tuple[Optional[
     pca_50 = PCA(n_components=target_components)
     embeddings_pca50 = pca_50.fit_transform(stack)
 
-    perplexity = min(30, len(vectors) - 1)
-    if perplexity < 2:
-        perplexity = len(vectors) - 1
-    print(
-        f"Running t-SNE ({embeddings_pca50.shape[0]}x{embeddings_pca50.shape[1]}) -> "
-        f"2D (perplexity={perplexity})"
-    )
-    tsne = TSNE(n_components=2, random_state=42, perplexity=perplexity)
-    embeddings_tsne = tsne.fit_transform(embeddings_pca50)
+    # Primary 2D: try UMAP, fallback to t-SNE
+    embedding_primary = None
+    try:
+        import umap  # type: ignore
+
+        n_neighbors = max(5, min(50, len(vectors) - 1))
+        print(
+            f"Running UMAP ({embeddings_pca50.shape[0]}x{embeddings_pca50.shape[1]}) -> "
+            f"2D (n_neighbors={n_neighbors}, min_dist=0.15)"
+        )
+        umap_model = umap.UMAP(
+            n_components=2,
+            n_neighbors=n_neighbors,
+            min_dist=0.15,
+            metric="euclidean",
+            random_state=42,
+        )
+        embedding_primary = umap_model.fit_transform(embeddings_pca50)
+    except Exception as exc:
+        perplexity = min(30, len(vectors) - 1)
+        if perplexity < 2:
+            perplexity = len(vectors) - 1
+        print(
+            f"[WARN] UMAP unavailable ({exc}); falling back to t-SNE "
+            f"(perplexity={perplexity})"
+        )
+        tsne = TSNE(n_components=2, random_state=42, perplexity=perplexity)
+        embedding_primary = tsne.fit_transform(embeddings_pca50)
 
     print(f"Running PCA ({stack.shape[0]}x{stack.shape[1]}) -> 2D")
     pca_2 = PCA(n_components=2)
     embeddings_pca2d = pca_2.fit_transform(stack)
 
-    return embeddings_tsne, embeddings_pca2d
+    return embedding_primary, embeddings_pca2d
 
 
 def _annoy_distance_to_cosine(distance: float) -> float:
