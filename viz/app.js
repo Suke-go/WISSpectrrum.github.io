@@ -674,6 +674,9 @@ function renderNetworkView(container) {
         }
     }
 
+    // Simulation placeholder to avoid reference errors (force layout disabled)
+    const simulation = null;
+
     // Get primary concepts for color coding
     const conceptColors = getConceptColorMap();
 
