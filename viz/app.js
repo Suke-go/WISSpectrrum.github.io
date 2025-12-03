@@ -571,6 +571,7 @@ function renderNetworkView(container) {
 
     // Calculate embedding bounds for better scaling
     let embeddingBounds = { minX: 0, maxX: 0, minY: 0, maxY: 0 };
+    let embeddingCenter = { x: 0, y: 0 };
     if (useEmbeddings) {
         const coords = [];
         state.filteredPapers.forEach(paper => {
@@ -587,6 +588,8 @@ function renderNetworkView(container) {
             embeddingBounds.maxX = Math.max(...coords.map(c => c.x));
             embeddingBounds.minY = Math.min(...coords.map(c => c.y));
             embeddingBounds.maxY = Math.max(...coords.map(c => c.y));
+            embeddingCenter.x = (embeddingBounds.minX + embeddingBounds.maxX) / 2;
+            embeddingCenter.y = (embeddingBounds.minY + embeddingBounds.maxY) / 2;
         }
     }
 
@@ -622,6 +625,18 @@ function renderNetworkView(container) {
 
     console.log('Nodes sample:', nodes.slice(0, 3));
     console.log('Using embeddings:', useEmbeddings);
+
+    // If embedding bounds are valid, set initial zoom/pan to center the point cloud
+    if (useEmbeddings && embeddingBounds.maxX > embeddingBounds.minX && embeddingBounds.maxY > embeddingBounds.minY) {
+        const scaleX = width / (embeddingBounds.maxX - embeddingBounds.minX);
+        const scaleY = height / (embeddingBounds.maxY - embeddingBounds.minY);
+        const scale = Math.min(scaleX, scaleY) * 0.9; // padding around edges
+        const translate = [
+            width / 2 - embeddingCenter.x * scale,
+            height / 2 - embeddingCenter.y * scale
+        ];
+        svg.call(zoom.transform, d3.zoomIdentity.translate(translate[0], translate[1]).scale(scale));
+    }
 
     // Create links based on shared concepts
     const links = [];
