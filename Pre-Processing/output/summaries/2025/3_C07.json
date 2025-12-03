@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+  "title": "Dishplayï¼ã·ãªã¢ã«ã®ç£æ°å¿ç­ãå©ç¨ããå¯é£ãã£ã¹ãã¬ã¤ã·ã¹ãã",
   "title_en": "A Scale-Aware Method for Generating 3D-Printable Tactile Maps",
   "authors": [
     "Qi Feng",
@@ -32,7 +32,7 @@
     "ids": []
   },
   "links": {
-    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/paper/03.pdf",
+    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/demo/3-C07.pdf",
     "code": null,
     "source_page": "https://www.wiss.org/WISS2025Proceedings/"
   },

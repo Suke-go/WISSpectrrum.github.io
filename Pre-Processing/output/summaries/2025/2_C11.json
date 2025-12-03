@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+  "title": "可動式レンズアレイを用いた情報提示手法の基礎検討",
   "title_en": "Preliminary Study of Information Presentation Using a Movable Lens Array",
   "authors": [
     "鈴木 麻央",
@@ -28,7 +28,7 @@
     "ids": []
   },
   "links": {
-    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/paper/02.pdf",
+    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/demo/2-C11.pdf",
     "code": null,
     "source_page": "https://www.wiss.org/WISS2025Proceedings/"
   },

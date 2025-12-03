@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "ã¯ãªã¨ã¤ãã£ãã³ã¼ãã£ã³ã°ã«ãããã¦ã¼ã¶ã®åé¢çå©çãèæ®ãããã­ã°ã©ãã³ã°ç°å¢",
+  "title": "LLM ãæ´»ç¨ããå¤æ§ãªãã¬ã¼ã¤ãä¸ç·ã«æ¥½ãããã¹ãã¼ãã«ã¼ã«ã®è¨­è¨ã·ã¹ãã",
   "title_en": "A Rule-Design System for Sports Enjoyable by Diverse Players Using LLMs",
   "authors": [
     "井上 大雅",
@@ -26,7 +26,7 @@
     "ids": []
   },
   "links": {
-    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/01_cover.pdf",
+    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/demo/1-A05.pdf",
     "code": null,
     "source_page": "https://www.wiss.org/WISS2025Proceedings/"
   },

@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+  "title": "3つ以上の評価指標を用いた多目的最適化問題のための対話的可視化手法",
   "title_en": "Pareto Solutions in Reduced Space Parallel Coordinate Plots",
   "authors": [],
   "authors_en": [],
@@ -20,7 +20,7 @@
     "ids": []
   },
   "links": {
-    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/paper/02.pdf",
+    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/demo/2-C25.pdf",
     "code": null,
     "source_page": "https://www.wiss.org/WISS2025Proceedings/"
   },

@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+  "title": "å¾æ¹ä¼¸èº«å®è¿ãã®æ®µéçå­¦ç¿ããµãã¼ãããç·´ç¿æ¯æ´ã·ã¹ãã",
   "title_en": "Phantom Sensation",
   "authors": [],
   "authors_en": [],
@@ -20,7 +20,7 @@
     "ids": []
   },
   "links": {
-    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/paper/02.pdf",
+    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/demo/2-C20.pdf",
     "code": null,
     "source_page": "https://www.wiss.org/WISS2025Proceedings/"
   },

@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "VL-SensorIDE: VLMãç¨ããä»®æ³ã»ã³ãµIDEã«ããã¤ã³ã¿ã©ã¯ã·ã§ã³è¨­è¨ã®å¯¾è±¡æ¡å¼µã¨å®¹æå",
+  "title": "Octreeベースのボクセル表現を用いた動的LOD制御による点群可視化システムの提案",
   "title_en": "Efficient LOD Generation and Web Visualization of Large-Scale Point Clouds Using Octrees",
   "authors": [
     "ԽγεςϜͷఏҊ",
@@ -26,7 +26,7 @@
     "ids": []
   },
   "links": {
-    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/paper/02.pdf",
+    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/demo/2-B09.pdf",
     "code": null,
     "source_page": "https://www.wiss.org/WISS2025Proceedings/"
   },

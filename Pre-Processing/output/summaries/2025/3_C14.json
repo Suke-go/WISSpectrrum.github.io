@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "æ¼«ç»å¶ä½èã®ããã®ãã¼ã å¶ä½æ¯æ´ã·ã¹ãã ã®éçº",
+  "title": "æå·®ãã®å¯¾è±¡ã¨æå³ãæç¢ºã«ããARãã³ãç¨ããå¯¾é¢ä¼è©±æ¯æ´ã·ã¹ãã",
   "title_en": "AR-pin-based face-to-face conversation support system that clarifies pointing targets and intentions",
   "authors": [
     "石井 泰斗",
@@ -28,7 +28,7 @@
     "ids": []
   },
   "links": {
-    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/paper/03.pdf",
+    "pdf": "https://www.wiss.org/WISS2025Proceedings/data/demo/3-C14.pdf",
     "code": null,
     "source_page": "https://www.wiss.org/WISS2025Proceedings/"
   },
