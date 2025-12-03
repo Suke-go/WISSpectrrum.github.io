@@ -39,7 +39,6 @@ export function initBubble(data, options = {}) {
   root = d3.hierarchy(data)
     .sum(d => d.count || 1)
     .sort((a, b) => b.value - a.value);
-
   focus = root;
 
   // Compute partition layout
@@ -132,7 +131,8 @@ export function initBubble(data, options = {}) {
       y1: Math.max(0, d.y1 - p.depth)
     });
 
-    const t = g.transition().duration(750);
+    // Faster, lower-motion transition to avoid disorientation
+    const t = g.transition().duration(300);
 
     path.transition(t)
       .tween("data", d => {
