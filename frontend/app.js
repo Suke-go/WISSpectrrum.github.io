@@ -592,25 +592,25 @@ function renderPaperDetail(data, meta) {
   appendSection(wrapper, "Method", data.method_summary, data.method_summary_en);
   appendSection(wrapper, "Evaluation", data.evaluation_summary, data.evaluation_summary_en);
 
-  if (data.links && (data.links.pdf || data.links.code)) {
+  const linkEntries = (data.links && [
+    { key: "pdf", label: "PDF" },
+    { key: "video", label: "Video" },
+    { key: "review", label: "Review" },
+    { key: "source_page", label: "Proceedings" },
+    { key: "code", label: "Code" },
+  ].filter((item) => data.links[item.key])) || [];
+
+  if (linkEntries.length) {
     const links = document.createElement("div");
     links.className = "links";
-    if (data.links.pdf) {
-      const pdfLink = document.createElement("a");
-      pdfLink.href = data.links.pdf;
-      pdfLink.textContent = "PDF";
-      pdfLink.target = "_blank";
-      pdfLink.rel = "noopener";
-      links.appendChild(pdfLink);
-    }
-    if (data.links.code) {
-      const codeLink = document.createElement("a");
-      codeLink.href = data.links.code;
-      codeLink.textContent = "Code";
-      codeLink.target = "_blank";
-      codeLink.rel = "noopener";
-      links.appendChild(codeLink);
-    }
+    linkEntries.forEach((item) => {
+      const a = document.createElement("a");
+      a.href = data.links[item.key];
+      a.textContent = item.label;
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+      links.appendChild(a);
+    });
     wrapper.appendChild(links);
   }
 
