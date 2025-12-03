@@ -604,6 +604,9 @@ function renderNetworkView(container) {
         }
     }
 
+    // Simulation placeholder (force layout disabled)
+    const simulation = null;
+
     // Create nodes from papers
     const nodes = state.filteredPapers.map((paper, i) => {
         const node = {
@@ -617,8 +620,8 @@ function renderNetworkView(container) {
             if (sectionData && sectionData.tsne) {
                 // Normalize coordinates to fit in view with padding
                 const padding = 100;
-                const rangeX = embeddingBounds.maxX - embeddingBounds.minX;
-                const rangeY = embeddingBounds.maxY - embeddingBounds.minY;
+                const rangeX = Math.max(embeddingBounds.maxX - embeddingBounds.minX, 1e-6);
+                const rangeY = Math.max(embeddingBounds.maxY - embeddingBounds.minY, 1e-6);
 
                 node.x = ((sectionData.tsne[0] - embeddingBounds.minX) / rangeX) * (width - padding * 2) + padding;
                 node.y = ((sectionData.tsne[1] - embeddingBounds.minY) / rangeY) * (height - padding * 2) + padding;
@@ -673,9 +676,6 @@ function renderNetworkView(container) {
             }
         }
     }
-
-    // Simulation placeholder to avoid reference errors (force layout disabled)
-    const simulation = null;
 
     // Get primary concepts for color coding
     const conceptColors = getConceptColorMap();
