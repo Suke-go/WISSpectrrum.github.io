@@ -3,14 +3,18 @@
   "title": "時間歪曲スキートレーニングシステムにおける速度順応の検証",
   "title_en": "Not specified",
   "authors": [
+    "大庭 芙海",
     "Chen-Chieh Liao",
     "Yichen Peng",
-    "খ஑ ӳथ"
+    "吉村 奈津江",
+    "小池 英樹"
   ],
   "authors_en": [
+    "Funa Oba",
     "Chen-Chieh Liao",
     "Yichen Peng",
-    "খ஑ ӳथ"
+    "Natsue Yoshimura",
+    "Hideki Koike"
   ],
   "abstract": "本研究は仮想現実環境における速度知覚と時間歪みが技能学習に与える影響を調査した。本研究はVR表示とコントローラ、PCを連携させた実験プラットフォームを用いて、ヘッドセットで脳活動を250Hzで記録し、複数の速度条件（80、90、105、120、130 km/h）を操作して12名の参加者からデータを収集している。",
   "abstract_en": "This study investigated how velocity perception and temporal distortion in virtual reality environments affect skill learning. This study used an experimental platform linking a VR display, controller, and PC, recorded brain activity with a headset at 250 Hz, manipulated multiple speed conditions (80, 90, 105, 120, 130 km/h), and collected data from 12 participants.",
