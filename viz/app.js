@@ -585,10 +585,20 @@ function renderNetworkView(container) {
         });
 
         if (coords.length > 0) {
-            embeddingBounds.minX = Math.min(...coords.map(c => c.x));
-            embeddingBounds.maxX = Math.max(...coords.map(c => c.x));
-            embeddingBounds.minY = Math.min(...coords.map(c => c.y));
-            embeddingBounds.maxY = Math.max(...coords.map(c => c.y));
+            // Use percentile bounds to ignore extreme outliers so that the main cluster is centered
+            const xs = coords.map(c => c.x).sort((a, b) => a - b);
+            const ys = coords.map(c => c.y).sort((a, b) => a - b);
+            const q = (arr, p) => {
+                const idx = (arr.length - 1) * p;
+                const lo = Math.floor(idx);
+                const hi = Math.ceil(idx);
+                if (lo === hi) return arr[lo];
+                return arr[lo] + (arr[hi] - arr[lo]) * (idx - lo);
+            };
+            embeddingBounds.minX = q(xs, 0.05);
+            embeddingBounds.maxX = q(xs, 0.95);
+            embeddingBounds.minY = q(ys, 0.05);
+            embeddingBounds.maxY = q(ys, 0.95);
             embeddingCenter.x = (embeddingBounds.minX + embeddingBounds.maxX) / 2;
             embeddingCenter.y = (embeddingBounds.minY + embeddingBounds.maxY) / 2;
         }
